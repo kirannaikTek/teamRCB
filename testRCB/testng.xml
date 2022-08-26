@@ -3,7 +3,8 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="testRCB.testing_Demo1"/>
+      <class name="testRCB.ValidateAtleastOneWicketKeeper"/>
+       <class name="testRCB.ValidateFourForeignPlayers"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
