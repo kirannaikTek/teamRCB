@@ -1,0 +1,14 @@
+package testRCB;
+
+import org.testng.annotations.Test;
+
+public class ValidateAtleastOneWicketKeeper {
+
+	static String requestBody = null;
+	static int wicketKeeperCount = 0;
+	@Test
+	
+	public void verifyAtlestOneWicketKeeper() {
+		
+	}
+}

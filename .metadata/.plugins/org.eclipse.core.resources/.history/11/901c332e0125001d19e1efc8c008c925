@@ -1,0 +1,11 @@
+package testRCB;
+
+import org.testng.annotations.Test;
+
+public class ValidateFourForeignPlayers {
+
+	@Test
+	public void verifyFourForeignPlayers() {
+		
+	}
+}

@@ -1,0 +1,13 @@
+package testRCB;
+
+import org.testng.annotations.Test;
+
+public class ValidateFourForeignPlayers {
+
+	static String requestBody = null;
+	static int foreignPlayersCount = 0;
+	@Test
+	public void verifyFourForeignPlayers() {
+		
+	}
+}
